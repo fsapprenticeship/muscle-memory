@@ -9,5 +9,5 @@ Notes for Alyce:
 - `Ctrl ~` (two tries potentially)
 - `touch training-filename-number.js` 
 - example: `touch training-stripe-3.js` (or) || (or) `touch training-serverless-1.yml`
-- Some of the files you will type out three times, sometimes just one or two - depends on length, usefulness.
+- Some of the files you will type out three times, sometimes just once or twice - depends on length, usefulness.
 
