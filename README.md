@@ -13,3 +13,4 @@ Notes for Alyce:
 - example: `touch training-stripe-3.js` (or) || (or) `touch training-serverless-1.yml`
 - Some of the files you will type out three times, sometimes just once or twice - depends on length, usefulness.
 - Send a pull-request to the develop branch for the central repository of the repo you forked (in other words, the original).
+- For now, just focus on making one copy of each file. In the future, 2/3 times depending on length and usefullness.
