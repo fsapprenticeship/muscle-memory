@@ -1,13 +1,13 @@
 # muscle-memory
 Work on your speed &amp; learn common coding conventions for all sorts of JavaScript.
 
-Notes for Alyce:
+Notes:
 
-- Fork this repository, and then clone your fork into VS-Code.
-- Create & checkout into a new branch in git
-- `git checkout -b typing/yourname/1`
+- Fork this repository, and then clone your fork into VS-Code using the git clone command.
+- cd into the repository
+- Create & checkout into a new branch in git `git checkout -b typing/yourname/1`
 - Split your screen side-by-side for convenience
-- For each example file, create a new typing file like below in the VS-Code terminal.
+- For each example file, create a 5 new files like below in the VS-Code terminal.
 - `Ctrl ~` (two tries potentially)
 - `touch training-filename-number.js` 
 - example: `touch training-stripe-3.js` (or) || (or) `touch training-serverless-1.yml`
