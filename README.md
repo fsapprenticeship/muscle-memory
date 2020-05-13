@@ -13,3 +13,9 @@ Notes:
 - example: `touch training-stripe-3.js` (or) || (or) `touch training-serverless-1.yml`
 - Make 5 copies of each file, and make one commit each time you create a new file. Your forked repo should have 25 commits at the end.
 - Send a pull-request to the develop branch for the central repository of the repo you forked (in other words, the original).
+
+###Git Commands
+- git status
+- git add <filename>
+- git commit -m "message here"
+- git push
